@@ -1,5 +1,5 @@
 {
-  "name": "users-management2",
+  "name": "users-management",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -15,9 +15,16 @@
     "@angular/compiler": "~12.0.0",
     "@angular/core": "~12.0.0",
     "@angular/forms": "~12.0.0",
+    "@angular/localize": "^12.0.5",
     "@angular/platform-browser": "~12.0.0",
     "@angular/platform-browser-dynamic": "~12.0.0",
     "@angular/router": "~12.0.0",
+    "@ng-bootstrap/ng-bootstrap": "^10.0.0",
+    "bootstrap": "^5.0.2",
+    "chart.js": "^2.9.4",
+    "ng-apexcharts": "^1.5.12",
+    "ng-bootstrap": "^1.6.3",
+    "ng2-charts": "^2.4.2",
     "rxjs": "~6.6.0",
     "tslib": "^2.1.0",
     "zone.js": "~0.11.4"
